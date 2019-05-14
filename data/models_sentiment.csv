@@ -1,0 +1,19 @@
+Input,Model,Description,Accuracy,precision,recall,f1-score
+Normalized reviews,Logit,Logit (Normalized reviews),0.9625,0.9744,0.95,0.962
+Stemmatized reviews,Logit,Logit (Stemmatized reviews),0.9646,0.9705,0.9583,0.9644
+Lemmatized review,Logit,Logit (Lemmatized review),0.9625,0.9703,0.9542,0.9622
+Normalized reviews,NB,NB (Normalized reviews),0.9583,0.9583,0.9583,0.9583
+Stemmatized reviews,NB,NB (Stemmatized reviews),0.9688,0.9747,0.9625,0.9686
+Lemmatized review,NB,NB (Lemmatized review),0.9646,0.9705,0.9583,0.9644
+Normalized reviews,SVM (RBF),SVM (RBF) (Normalized reviews),0.9625,0.9703,0.9542,0.9622
+Stemmatized reviews,SVM (RBF),SVM (RBF) (Stemmatized reviews),0.9646,0.9705,0.9583,0.9644
+Lemmatized review,SVM (RBF),SVM (RBF) (Lemmatized review),0.9667,0.9706,0.9625,0.9665
+Normalized reviews,SVM (Linear),SVM (Linear) (Normalized reviews),0.9667,0.9746,0.9583,0.9664
+Stemmatized reviews,SVM (Linear),SVM (Linear) (Stemmatized reviews),0.9646,0.9705,0.9583,0.9644
+Lemmatized review,SVM (Linear),SVM (Linear) (Lemmatized review),0.9625,0.9625,0.9625,0.9625
+POS,Logit,Logit (POS),0.7125,0.7198,0.6958,0.7076
+POS and Normalized reviews,Logit,Logit (POS and Normalized reviews),0.8729,0.851,0.9042,0.8768
+LIWC,SVM (RBF),SVM (RBF) (LIWC),0.75,0.75,0.75,0.75
+LIWC and Normalized reviews,SVM (RBF),SVM (RBF) (LIWC and Normalized reviews),0.933,0.913,0.958,0.935
+LIWC,Logit,Logit (LIWC),0.8979,0.8996,0.8958,0.8977
+LIWC and Normalized reviews,Logit,Logit (LIWC and Normalized reviews),0.8625,0.8508,0.8792,0.8648
