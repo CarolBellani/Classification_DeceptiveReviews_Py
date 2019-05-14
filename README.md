@@ -9,6 +9,8 @@ Explanation of files
 
 * overall_model_results.xlsx - a summary of all test results, including best model results for each grid search cv, grid search parameters and final results matrix
 
+* Text_Mining_Presentation.pdf - presentation of the project
+
 
 scripts
 =======
