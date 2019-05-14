@@ -60,3 +60,5 @@ test_naivebayse-norm_lemma.ipynb
 
 output
 ======
+
+results of the hyperparameters tuning and of the models
