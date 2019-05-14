@@ -4,11 +4,10 @@ Two supervised binary classification problems, deceptive/truthful and positive/n
 
 Details: 1600 reviews. https://www.kaggle.com/rtatman/deceptive-opinion-spam-corpus
 
-Explanation of files:
+Explanation of files
 =====================
 
-overall_model_results.xlsx - a summary of all test results, including best model results for each grid search cv, grid search parameters 
-	and final results matrix
+* overall_model_results.xlsx - a summary of all test results, including best model results for each grid search cv, grid search parameters and final results matrix
 
 
 scripts
