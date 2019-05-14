@@ -1,0 +1,6 @@
+,f1-score,precision,recall,support
+truthful,0.75,0.75,0.75,240.0
+deceptive,0.75,0.75,0.75,240.0
+micro avg,0.75,0.75,0.75,480.0
+macro avg,0.75,0.75,0.75,480.0
+weighted avg,0.75,0.75,0.75,480.0
